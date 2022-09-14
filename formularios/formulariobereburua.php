@@ -34,3 +34,6 @@ else{ ?>
 <?php  
 } ?>
 </html>
+
+<?php  
+echo "aaaaa" ?>
